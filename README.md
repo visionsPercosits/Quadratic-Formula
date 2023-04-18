@@ -1,29 +1,13 @@
-<!DOCTYPE html>
 <html>
-<head>
-	<title>Quadratic Formula Script in C++</title>
-	<style>
-		body {
-			font-family: Arial, sans-serif;
-			background-color: #f7f7f7;
-		}
-		h1 {
-			font-size: 2.5em;
-			text-align: center;
-			color: #444444;
-			margin-top: 50px;
-		}
-		p {
-			font-size: 1.2em;
-			color: #444444;
-			line-height: 1.5;
-			margin: 30px 0;
-			padding: 0 20px;
-		}
-		code {
-			font-size: 1.2em;
-			background-color: #eeeeee;
-			padding: 5px;
-			border-radius: 3px;
-		}
-	</style>
+<body>
+	<h1>Quadratic Formula</h1>
+	<p>The quadratic formula is used to find the roots of a quadratic equation of the form:</p>
+	<p><b>ax<sup>2</sup> + bx + c = 0</b></p>
+	<p>where <i>a</i>, <i>b</i>, and <i>c</i> are constants, and <i>x</i> is the variable.</p>
+	<p>The formula is:</p>
+	<p><b>x = (-b ± √<span style="text-decoration:overline">b<sup>2</sup> - 4ac</span>) / 2a</b></p>
+	<p>The quadratic formula can be used to find the roots of any quadratic equation, whether it has real or complex roots.</p>
+</body>
+</html>
+
+	
